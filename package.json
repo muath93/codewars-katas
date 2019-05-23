@@ -1,0 +1,8 @@
+{
+  "name": "CodeWars",
+  "version": "1.0.0",
+  "description": "Codewars katas Challenges",
+  "main": "index.js",
+  "author": "Muath Altayyar",
+  "license": "MIT"
+}
